@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+
+# Electron app outputs
+Nibbler/node_modules/
+Nibbler/out/
+Nibbler/dist/
+Nibbler/.vite/
+
+# Common local Python/build artifacts in the legacy app subtree
+files/build/
+files/dist/
+__pycache__/
